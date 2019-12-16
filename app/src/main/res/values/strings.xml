@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery Tool</string>
+    <string name="add">Add</string>
+    <string name="Name">Name</string>
+    <string name="Qty">Quantity</string>
+    <string name="Weight">Weight</string>
+    <string name="PricePerQty">Price Per Quantity</string>
+    <string name="PricePerWeight">Price Per Weight</string>
+    <string name="remove">Remove</string>
+    <string name="FinalPrice">Final Price</string>
+    <string name="FinalPriceWithTax">Final Price (Tax included)</string>
+    <string name="Tax">Tax</string>
+    <string name="Done">Done</string>
+    <string name="ChangeTax">Change Tax</string>
+</resources>
