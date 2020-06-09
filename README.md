@@ -1,5 +1,6 @@
 # GroceryTool
 This is one of my first apps that I have built for Android platform to learn how to make an Android app during my winter break in 2019.
+
 The purpose of the app is to help the user calculate the amount of money they would need to pay when doing groceries.
 
 
